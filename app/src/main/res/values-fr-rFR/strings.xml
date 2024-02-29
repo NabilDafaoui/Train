@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrainBooking</string>
+    <string name="destination">Destination</string>
+    <string name="depart">Départ</string>
+    <string name="select_date">"Date "</string>
+    <string name="search_trains">Recherche Trains</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mon Train</string>
+    <string name="destination">Destination</string>
+    <string name="depart">From</string>
+    <string name="select_date">Select Date</string>
+    <string name="search_trains">Search Trains</string>
+    <string name="date1" translatable="false">06:15 - 08:22</string>
+    <string name="direct_ter1" translatable="false">Direct Grande_Vitesse</string>
+    <string name="temps_1" translatable="false">2h07</string>
+    <string name="prix_1" translatable="false">23 €</string>
+    <string name="date_2" translatable="false">08:02 - 09:55</string>
+    <string name="direct_ter2" translatable="false">Direct TER</string>
+    <string name="temps" translatable="false">1h53</string>
+    <string name="prix_2" translatable="false">10.80 €</string>
+    <string name="date_3" translatable="false">10:53 - 12:48</string>
+    <string name="direct_ter3" translatable="false">Direct TER</string>
+    <string name="temps_3" translatable="false">1h55</string>
+    <string name="prix_3" translatable="false">13.99 €</string>
+    <string name="from" translatable="false">From</string>
+    <string name="La_Date" translatable="false">date</string>
+</resources>
